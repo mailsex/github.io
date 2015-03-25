@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mailsex",
-    "repositoryName": "mailsex.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mailsex","repositoryName":"mailsex.github.io","branch":"master","cname":"https://mailsex.github.io","delay":"200"},"site":{"title":"mailsex ","description":"blog","url":"http://https://mailsex.github.io"},"socialnetwork":{"email":"wuchianglin@foxmail.com"},"theme":{"name":"Casper","url":"//mailsex.github.io/themes/Casper"}}
